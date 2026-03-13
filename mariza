@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Funny Lab Website</title>
+    <style>
+        body{
+            background: linear-gradient(135deg,#ffeaa7,#74b9ff);
+            font-family: Arial, sans-serif;
+            text-align:center;
+            padding:40px;
+        }
+
+        h1{
+            font-size:50px;
+            color:#d63031;
+            text-shadow:2px 2px 4px black;
+        }
+
+        img{
+            width:350px;
+            border-radius:20px;
+            margin-top:20px;
+            box-shadow:0 10px 25px rgba(0,0,0,0.4);
+        }
+
+        .caption{
+            font-size:22px;
+            margin-top:15px;
+            font-weight:bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Mariza u are really dumb 🤪</h1>
+
+<p class="caption">Certified laboratory chaos moment</p>
+
+<img src="lab_photo.jpg" alt="Funny lab moment">
+
+<p>Warning: excessive microscope usage may cause temporary brain shutdown.</p>
+
+</body>
+</html>
